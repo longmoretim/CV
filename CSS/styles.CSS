@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+h1 {
+    font-family: "sacramento", cursive;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h2 {
+    font-family: "Montserrat",sans-serif;
+}
+h3 {
+    font-family: "Montserrat",sans-serif;
+}
+.top {
+    background-color: #E4F9F5;
+}
+.bottomCloud {
+    position: absolute;
+}
+.topCloud {
+    position: absolute;
+    right: 650px;
+    top: 50px;
+}
+.MePic {
+    height: 200px;
+}
+.CompPic {
+    height: 200px;
+}
+.mount {
+    height: 600px;
+}
